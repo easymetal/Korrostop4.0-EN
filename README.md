@@ -1,3 +1,5 @@
+![**Korrostop4.0** - English](Images/Korrostop4.0en.jpg)
+
 # **Korrostop4.0** - _Informations in English_
 
 ## What is **Korrostop4.0**
