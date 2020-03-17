@@ -8,7 +8,7 @@ _**Korrostop4.0**_ is a reliable, accurate measuring device for measuring conduc
 
 Originally designed for industrial use for [water treatment in spark erosion cutting](https://www.easymetal.com/en/custom-solutions/edm/use-in-the-edm-area.html) the  _**E.KO IONISER**_ with _**Korrostop4.0**_ are increasingly being deployed in other areas due to their high quality.
 
-The combination of the _**E.KO IONISER**_ with _**Korrostop4.0**_ is compatible with all EDM machines (independent of make) and with its many communication channels, offers full integration into your existing company IT. _**Korrostop4.0**_ is the ideal measuring device for perfecting process automation within your company. Also see [**Features**](All-Features).
+The combination of the _**E.KO IONISER**_ with _**Korrostop4.0**_ is compatible with all EDM machines (independent of make) and with its many communication channels, offers full integration into your existing company IT. _**Korrostop4.0**_ is the ideal measuring device for perfecting process automation within your company. Also see [**Features**](../../wiki/All-Features).
 
 > The current version **SYS412002** was released on 01/28/2020. Also see [Versions](../../wiki/Versions).
 
