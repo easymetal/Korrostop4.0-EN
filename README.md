@@ -29,10 +29,10 @@ The combination of the _**E.KO IONISER**_ with _**Korrostop4.0**_ is compatible 
 ![Picture](Images/K4-head1.jpg)
 > Picture: **Korrostop4.0** on **E.KO IONISER 1501** 
 
-_© 2020 by [easymetal](https://www.easymetal.com/)_
+_© 2020 by [easymetal](https://www.easymetal.com/en.html)_
 
 ## QR code links:
 * For this page _(https://github.com/easymetal/Korrostop4.0-EN)_: **[Images/qrEN.png](Images/qrEN.png)**
 * For the Wiki pages  _(https://github.com/easymetal/Korrostop4.0-EN/wiki)_: **[Images/qrWiki.png](Images/qrWiki.png)**
 * For the GitHub pages of easymetal _(https://github.com/easymetal)_: **[Images/qrEasymetal.png](Images/qrEasymetal.png)**
-* For the easymetal website _(https://www.easymetal.com/)_: **[Images/qrWEB.png](Images/qrWEB.png)**
+* For the easymetal website _(https://www.easymetal.com/en.html)_: **[Images/qrWEB.png](Images/qrWEB.png)**
