@@ -4,9 +4,9 @@
 
 ## What  is **Korrostop4.0**
 
-_**Korrostop4.0**_ is a reliable, accurate measuring device for measuring conductance, temperature and flow of deionized water after treatment with the _**E.KO IONISER**_ system. [_**Korrostop4.0**_]( https://www.easymetal.com/en/products/korrostop-40/korrostop-40.html) is only approved for use with the [_**E.KO IONISER**_](https://www.easymetal.com/en/products/eko-ioniser/areas-of-application.html) series from [_**easymetal**_](https://www.easymetal.com/en.html) . The use of  _**Korrostop4.0**_ on other deionizing systems is not permitted.  If _**Korrostop4.0**_ is operated illicitly in conjunction with third-party products (deionizing systems), license fees will be incurred as subsequently charged costs which are only covered in conjunction with the _**E.KO IONISER 1501/1502/1503**_ .
+_**Korrostop4.0**_ is a reliable, accurate measuring device for measuring conductance, temperature and flow of deionized water after treatment with the _**E.KO IONISER**_ system. [_**Korrostop4.0**_]( https://www.easymetal.com/en/products/korrostop-40/korrostop-40) is only approved for use with the [_**E.KO IONISER**_](https://www.easymetal.com/en/products/eko-ioniser/areas-of-application) series from [_**easymetal**_](https://www.easymetal.com/en.html) . The use of  _**Korrostop4.0**_ on other deionizing systems is not permitted.  If _**Korrostop4.0**_ is operated illicitly in conjunction with third-party products (deionizing systems), license fees will be incurred as subsequently charged costs which are only covered in conjunction with the _**E.KO IONISER 1501/1502/1503**_ .
 
-Originally designed for industrial use for [water treatment in spark erosion cutting](https://www.easymetal.com/en/custom-solutions/edm/use-in-the-edm-area.html) the  _**E.KO IONISER**_ with _**Korrostop4.0**_ are increasingly being deployed in other areas due to their high quality.
+Originally designed for industrial use for [water treatment in spark erosion cutting](https://www.easymetal.com/en/custom-solutions/edm/use-in-the-edm-area) the  _**E.KO IONISER**_ with _**Korrostop4.0**_ are increasingly being deployed in other areas due to their high quality.
 
 The combination of the _**E.KO IONISER**_ with _**Korrostop4.0**_ is compatible with all EDM machines (independent of make) and with its many communication channels, offers full integration into your existing company IT. _**Korrostop4.0**_ is the ideal measuring device for perfecting process automation within your company. Also see [**Features**](../../wiki/All-Features).
 
@@ -22,7 +22,7 @@ The combination of the _**E.KO IONISER**_ with _**Korrostop4.0**_ is compatible 
 ## Target group of these pages:
 * **Interested parties**: Information on features
 * **Customers**: Looking up information in the manual, updates, ...
-* **[Retailers]( https://www.easymetal.com/en/retailer-locator.html)**: Use cases and reference book for_ customer-specific_ requests
+* **[Retailers]( https://www.easymetal.com/en/retailer-locator)**: Use cases and reference book for_ customer-specific_ requests
 * **Partners**: Use cases & specifications 
 * **Developers** in the field of process automation and integration: Examples & specifications
 
